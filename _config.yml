@@ -17,7 +17,7 @@ title: Minimal
 email: blog@minimal.com
 description: >- # this means to ignore newlines until "baseurl:"
   Este é um blog minimalista para aprender como funciona o Jekyll.
-baseurl: "minimalblog" # the subpath of your site, e.g. /blog
+baseurl: "/minimalblog" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: minimal_twitter
 github_username:  minimal_github
